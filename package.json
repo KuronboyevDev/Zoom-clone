@@ -1,0 +1,22 @@
+{
+    "name": "zoom-clone-master",
+    "version": "1.0.0",
+    "description": "Greetings to the Readers ! I have created website to deliver a platform to the user in which one can easily communicate and interact with larger groups all around. Specifically its a replica similar to zoom and other similar applications. <br/> Where individulas can talk on video call, share content, hold meetings, classes or can simply chat. <br/> Using these basic features can bring about tremendous beneficial aspects: <br/> * HEALTH SECTOR <br/>  * EDUCATIONAL SECTOR (especially for students) <br/> * PROFESSIONAL SECTOR <br/>",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "Bektemur Kuronboyev",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "ejs": "^3.1.5",
+        "express": "^4.17.1",
+        "nodemon": "^2.0.7",
+        "peer": "^0.6.1",
+        "peerjs": "^1.3.1",
+        "socket.io": "^3.0.5",
+        "uuid": "^8.3.2"
+    }
+}
